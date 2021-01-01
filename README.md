@@ -15,7 +15,6 @@ Let's learn everything about the AppBar widget in Flutter and let's also create 
 - [Social Media](#social-media)
 - [Preview](#preview)
 - [Watch Video](#watch-video)
-- [Sponsor](#sponsor)
 
 ### ⚡&ensp;Social Media
 
